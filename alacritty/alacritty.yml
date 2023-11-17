@@ -1,0 +1,31 @@
+font:
+  normal:
+    family: Cascadia Code 
+    style: Regular
+
+  bold:
+    family: Cascadia Code
+    style: Bold
+
+  italic:
+    family: Cascadia Code
+    style: Italic
+
+  bold_italic:
+    family: Cascadia Code
+    style: Bold Italic
+
+  size: 12 
+
+import:
+  - ~/.config/alacritty/themes/catppuccin-latte.yml
+
+window:
+  opacity: 0.9
+  padding:
+    x: 2
+    y: 2
+  decorations: none
+  dimensions:
+    lines: 30
+    columns: 100
